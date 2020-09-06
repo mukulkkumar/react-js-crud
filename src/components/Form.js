@@ -87,8 +87,6 @@ export default class Form extends Component {
                                 </div>
                                 <a href="/" className="btn btn-primary">Back</a> &nbsp;
                                 <button type="submit" className="btn btn-success">Submit</button>
-                                <br /><br />
-                                <div id="responseText"></div>
                             </form>
                         </div>
                     </div>

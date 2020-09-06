@@ -65,8 +65,6 @@ export default class Home extends Component {
                                 }
                             </tbody>
                         </table>
-                        <br /><br />
-                        <div id="responseText"></div>
                     </div>
                 </div>
                 <Modal show={this.state.addModalShow} onHide={addModalClose} >
