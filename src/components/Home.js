@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import axios from 'axios';
-import ReactDOM from 'react-dom';
 import { Modal, Button } from 'react-bootstrap';
 
 export default class Home extends Component {
